@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace CleanArchMvc.Domain.Entities
 {
-    public sealed class Product
+    public sealed class Product : Entity
     {
-        public int Id { get; private set; }
         public string Name { get; private set; }
         public string Description { get; private set; }
         public decimal Price { get; private set; }
@@ -67,7 +66,7 @@ namespace CleanArchMvc.Domain.Entities
             DomainExceptionValidation.When(image.Length > 250, "INVALID_IMAGE_NAME. Too long, maximum 250 character");
 
             Name = name;
-            Description = description; 
+            Description = description;
             Price = price;
             Stock = stock;
             Image = image;
