@@ -1,10 +1,5 @@
-﻿using System;
+﻿using CleanArchMvc.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
-using CleanArchMvc.Domain.Entities;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace CleanArchMvc.Infra.Data.EntitiesConfiguration
