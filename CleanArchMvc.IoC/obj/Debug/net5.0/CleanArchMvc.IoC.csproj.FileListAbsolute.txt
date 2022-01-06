@@ -17,3 +17,6 @@ C:\Users\matheus.willian\ESTUDOS\Clean Architecture - ASP.NET\CleanArchMvc\Clean
 C:\Users\matheus.willian\ESTUDOS\Clean Architecture - ASP.NET\CleanArchMvc\CleanArchMvc.IoC\obj\Debug\net5.0\CleanArchMvc.IoC.dll
 C:\Users\matheus.willian\ESTUDOS\Clean Architecture - ASP.NET\CleanArchMvc\CleanArchMvc.IoC\obj\Debug\net5.0\ref\CleanArchMvc.IoC.dll
 C:\Users\matheus.willian\ESTUDOS\Clean Architecture - ASP.NET\CleanArchMvc\CleanArchMvc.IoC\obj\Debug\net5.0\CleanArchMvc.IoC.pdb
+C:\Users\matheus.willian\ESTUDOS\Clean Architecture - ASP.NET\CleanArchMvc\CleanArchMvc.IoC\bin\Debug\net5.0\CleanArchMvc.IoC.runtimeconfig.json
+C:\Users\matheus.willian\ESTUDOS\Clean Architecture - ASP.NET\CleanArchMvc\CleanArchMvc.IoC\bin\Debug\net5.0\CleanArchMvc.IoC.runtimeconfig.dev.json
+C:\Users\matheus.willian\ESTUDOS\Clean Architecture - ASP.NET\CleanArchMvc\CleanArchMvc.IoC\obj\Debug\net5.0\CleanArchMvc.IoC.genruntimeconfig.cache

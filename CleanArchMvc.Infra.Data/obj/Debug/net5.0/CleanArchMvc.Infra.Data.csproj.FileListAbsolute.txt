@@ -13,3 +13,6 @@ C:\Users\matheus.willian\ESTUDOS\Clean Architecture - ASP.NET\CleanArchMvc\Clean
 C:\Users\matheus.willian\ESTUDOS\Clean Architecture - ASP.NET\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.dll
 C:\Users\matheus.willian\ESTUDOS\Clean Architecture - ASP.NET\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\ref\CleanArchMvc.Infra.Data.dll
 C:\Users\matheus.willian\ESTUDOS\Clean Architecture - ASP.NET\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
+C:\Users\matheus.willian\ESTUDOS\Clean Architecture - ASP.NET\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.runtimeconfig.json
+C:\Users\matheus.willian\ESTUDOS\Clean Architecture - ASP.NET\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.runtimeconfig.dev.json
+C:\Users\matheus.willian\ESTUDOS\Clean Architecture - ASP.NET\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.genruntimeconfig.cache

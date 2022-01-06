@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CjUuUGJKoGrklykoOroVvww+g/vEUljMYQgSkq3cKLh9sl/IO5wMJr6KI2LLWsJ5LlEBC8ZvN+VjS92Tzkns4g==",
+  "dgSpecHash": "3IgDSqPQz2J3ktaRydeycPBC9mQ7R0MFrJAtfX+ACeL2RkWiqwG77mKTV955D3lNJNJwRypDXYnh803Pgt6ffQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\matheus.willian\\ESTUDOS\\Clean Architecture - ASP.NET\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
   "expectedPackageFiles": [
