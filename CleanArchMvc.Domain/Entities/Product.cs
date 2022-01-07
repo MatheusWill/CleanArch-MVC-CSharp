@@ -52,9 +52,9 @@ namespace CleanArchMvc.Domain.Entities
             int stock,
             string image)
         {
-            DomainExceptionValidation.When(string.IsNullOrEmpty(name), "INVALID_NAME. Name is requered");
+            DomainExceptionValidation.When(string.IsNullOrEmpty(name), "INVALID_NAME. Name is Required");
             DomainExceptionValidation.When(name.Length < 3, "INVALID_NAME. Too short, minimun 3 character");
-            DomainExceptionValidation.When(string.IsNullOrEmpty(description), "INVALID_DESCRIPTION. Description is requered");
+            DomainExceptionValidation.When(string.IsNullOrEmpty(description), "INVALID_DESCRIPTION. Description is Required");
             DomainExceptionValidation.When(description.Length < 5, "INVALID_DESCRIPTION. Too short, minimun 5 character");
             DomainExceptionValidation.When(price < 0, "INVALID_PRICE_VALUE");
             DomainExceptionValidation.When(stock < 0, "INVALID_STOCK_VALUE");
