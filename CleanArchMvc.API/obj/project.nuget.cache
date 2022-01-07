@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "mS0ihujdnk8T2EiO/j0Mt4lKY+1WBAlkHby0NU14vqwnrgVpRUVVn35ANgHPOiRgVTthXWh2APiIidfC2F3Faw==",
+  "dgSpecHash": "IZM7YkVxp8FDAi5QMcUrOqQlrzDMtqKE9tT9eK9Y0AUrXa6t8pDLKPzrAD64/1tpagSEd2UJ5pOz1QxPNmUm/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\matheus.willian\\ESTUDOS\\Clean Architecture - ASP.NET\\CleanArchMvc\\CleanArchMvc.API\\CleanArchMvc.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matheus.willian\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\matheus.willian\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\matheus.willian\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\matheus.willian\\.nuget\\packages\\mediatr\\10.0.0\\mediatr.10.0.0.nupkg.sha512",
+    "C:\\Users\\matheus.willian\\.nuget\\packages\\mediatr.contracts\\1.0.0\\mediatr.contracts.1.0.0.nupkg.sha512",
     "C:\\Users\\matheus.willian\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\matheus.willian\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\matheus.willian\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
