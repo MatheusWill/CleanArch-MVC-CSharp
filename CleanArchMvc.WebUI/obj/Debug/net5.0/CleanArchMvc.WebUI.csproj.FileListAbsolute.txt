@@ -393,3 +393,4 @@ C:\Users\matheus.willian\ESTUDOS\Clean Architecture - ASP.NET\CleanArchMvc\Clean
 C:\Users\matheus.willian\ESTUDOS\Clean Architecture - ASP.NET\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 C:\Users\matheus.willian\ESTUDOS\Clean Architecture - ASP.NET\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\matheus.willian\ESTUDOS\Clean Architecture - ASP.NET\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\matheus.willian\ESTUDOS\Clean Architecture - ASP.NET\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
